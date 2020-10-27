@@ -1,0 +1,2 @@
+Hola mama estoy aprendiendo de un sistema de  manejo de control de versiones llamado git
+ 
