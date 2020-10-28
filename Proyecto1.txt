@@ -1,9 +1,0 @@
-Hola mama estoy aprendiendo de un sistema de  manejo de control de versiones llamado git
- 
-
- ahora mismo esto no deberia guardarse, right?
-
-TEST
-
-Prueba 
-
